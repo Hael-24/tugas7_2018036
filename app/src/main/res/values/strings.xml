@@ -1,0 +1,31 @@
+<resources>
+        <string name="app_name">Tugas 5</string>
+        <string name="A1">Suhat Lt 8</string>
+        <string name="A2">DIJUAL APARTEMEN SOEKARNO HATTA LT 8 MALANG RON.A120. TIPE STUDIO</string>
+        <string name="B1">Begawan lt 10</string>
+        <string name="B2">Unit Apartemen Di Begawan Tlogomas Dekat RS UMM, Kampus UMM, Mall Dinoyo, Terminal Landungsari Pinggir Jalan Poros Tlogomas</string>
+        <string name="C1">Suhat Lt 16</string>
+        <string name="C2">DIJUAL APARTEMEN SOEKARNO HATTA LT 16 MALANG RON.A119. TIPE EKSEKUTIF</string>
+        <string name="D1">Begawan lt 9</string>
+        <string name="D2">Dijual Apartemen Full Furnish Kawasan Kampus Di Begawan Malang. lt 9</string>
+        <string name="navigation_drawer_open">Open Navigation Drawer</string>
+        <string name="navigation_drawer_close">Close Navigation Drawer</string>
+        <string-array name="makanan">
+            <item>Suhat Lt 8</item>
+            <item>Begawan lt 10</item>
+            <item>Suhat Lt 16</item>
+            <item>Begawan lt 9</item>
+        </string-array>
+        <string-array name="star">
+            <item>4.5</item>
+            <item>4.7</item>
+            <item>4.4</item>
+            <item>4.9</item>
+        </string-array>
+        <string-array name="deskripsi">
+            <item>Rp. 350 Jt.</item>
+            <item>Rp. 500 Jt.</item>
+            <item>Rp. 375 Jt.</item>
+            <item>Rp. 575 Jt.</item>
+        </string-array>
+</resources>
